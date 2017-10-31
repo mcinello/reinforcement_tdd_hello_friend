@@ -5,3 +5,6 @@ class Friend
   end
 
 end
+
+michelle = Friend.new
+puts michelle.greet
